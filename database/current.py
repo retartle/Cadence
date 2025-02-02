@@ -1,0 +1,1 @@
+["*Nothing is playing right now! Do `-play` to start playing a song!*"]
