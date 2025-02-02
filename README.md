@@ -13,7 +13,7 @@ Cadence is a powerful and lightweight Discord bot designed for seamless music pl
 ## Installation & Setup ⚙️
 ### **1. Clone the Repository**
 ```bash
-git clone [https://github.com/retartle/Cadence](https://github.com/retartle/Cadence)
+git clone https://github.com/retartle/Cadence
 cd cadence
 ```
 
